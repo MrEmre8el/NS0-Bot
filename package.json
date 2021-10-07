@@ -1,0 +1,25 @@
+{
+  "name": "NS0-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "eslint": "^7.32.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrEmre8el/NS0-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrEmre8el/NS0-Bot/issues"
+  },
+  "homepage": "https://github.com/MrEmre8el/NS0-Bot#readme"
+}
